@@ -23,3 +23,8 @@ To run the executable, just do
 ```
 ./NeuralNetApp
 ```
+
+
+## Dataset
+
+I DO NOT own the copyright of the dataset used in this tutorial. `banknote.dat` is taken from `http://archive.ics.uci.edu/ml/datasets/banknote+authentication`
